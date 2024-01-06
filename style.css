@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(42, 43, 95);
+}
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-top: 20px;
+}
+
+.subhead{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+}
+
+.Table{
+    margin-top: 20px;
+}
+
+.H1{
+    color: rgb(232, 84, 109);
+}
+
+.H2{
+    color: white;
+}
+
+.H3{
+    color: rgb(80, 80, 241);
+}
+
+.H4{
+    color: rgb(232, 84, 109);
+    background-color: grey;
+}
+
+.H5{
+    color: white;
+    background-color: grey;
+}
+
+.H6{
+    background-color: yellow;
+}
